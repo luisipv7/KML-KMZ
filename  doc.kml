@@ -1,0 +1,2666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+ <Document>
+ <Style id="restaurantStyle">
+ <IconStyle id="restuarantIcon">
+ <Icon>
+ <href>http://maps.google.com/mapfiles/kml/pal2/icon63.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Style id="barStyle">
+ <IconStyle id="barIcon">
+ <Icon>
+ <href>http://maps.google.com/mapfiles/kml/pal2/icon27.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Camera>
+<longitude>-52.43011146151137</longitude>
+<latitude>-31.75996241340764</latitude>   
+ <altitude>2000</altitude>
+     
+</Camera>
+ <Folder>
+<name>Logotipo</name>
+ <ScreenOverlay>
+
+
+   <!-- Origin (x=0/y=0) is in the lower left corner.
+
+        y goes up, x goes right.
+
+     -->
+
+<!-- Place the upper left corner (0/1) of the image... -->
+       <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+       <screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+       <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+       <size x="532" y="297" xunits="pixels" yunits="pixels"/>
+
+    <Icon><href>files/logo.png</href></Icon>
+ 
+ </ScreenOverlay>
+ </Folder>
+<Folder>
+<name>NAP</name>
+<Folder>
+<name>Rede1 </name>
+ <Placemark>
+ <name>CTO.01.01</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43058622337844</longitude>
+ <latitude>-31.76011109171682</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43080345471365,-31.7593027337559,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.02</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43011146151137</longitude>
+ <latitude>-31.75996241340764</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43154099649485,-31.75866110716967,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.03</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43077358819825</longitude>
+ <latitude>-31.76143263328172</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43170029089911,-31.75996948569187,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.04</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43058622337844</longitude>
+ <latitude>-31.76011109171682</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43060673998953,-31.75814797813821,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.05</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.4301139394093</longitude>
+ <latitude>-31.75899197399624</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43043281642579,-31.75684381260103,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.06</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43023185774742</longitude>
+ <latitude>-31.7589038910312</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43133149863978,-31.75723553405868,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.07</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42991160554617</longitude>
+ <latitude>-31.75541382682295</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43086986994755,-31.7540147182764,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.08</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42953746335869</longitude>
+ <latitude>-31.75454650059524</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42999448990445,-31.75361625928177,0</coordinates>
+ </Point>
+ </Placemark>
+</Folder>
+<Folder>
+<name>Rede2 </name>
+ <Placemark>
+ <name>CTO.02.01</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42994958748402</longitude>
+ <latitude>-31.75455775822753</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.4306698866887,-31.75273926086333,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.02</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43067469383169</longitude>
+ <latitude>-31.75377154500858</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42980785380252,-31.75227202419772,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.03</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42876385960001</longitude>
+ <latitude>-31.75281543643835</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42965460950634,-31.7510193154918,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.04</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42966327254961</longitude>
+ <latitude>-31.75249762381624</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43048648556571,-31.7513931373233,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.05</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42920191753734</longitude>
+ <latitude>-31.7514985160019</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42943091654132,-31.7496312599889,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.06</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42960487941714</longitude>
+ <latitude>-31.75224450879829</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43030467014217,-31.75008800557058,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.07</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42971851550332</longitude>
+ <latitude>-31.75018306767822</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43012943087142,-31.74878978510125,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.08</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.4283961599644</longitude>
+ <latitude>-31.7494769046721</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42927130139522,-31.74838354208864,0</coordinates>
+ </Point>
+ </Placemark>
+</Folder>
+<Folder>
+<name>Rede3 </name>
+ <Placemark>
+ <name></name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value></value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value></value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>0</longitude>
+ <latitude>0</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates></coordinates>
+ </Point>
+ </Placemark>
+ </Folder>
+ </Folder>
+ </Document>
+</kml><?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+ <Document>
+ <Style id="restaurantStyle">
+ <IconStyle id="restuarantIcon">
+ <Icon>
+ <href>http://maps.google.com/mapfiles/kml/pal2/icon63.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Style id="barStyle">
+ <IconStyle id="barIcon">
+ <Icon>
+ <href>http://maps.google.com/mapfiles/kml/pal2/icon27.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Camera>
+<longitude>-52.43011146151137</longitude>
+<latitude>-31.75996241340764</latitude>   
+ <altitude>2000</altitude>
+     
+</Camera>
+ <Folder>
+<name>Logotipo</name>
+ <ScreenOverlay>
+
+
+   <!-- Origin (x=0/y=0) is in the lower left corner.
+
+        y goes up, x goes right.
+
+     -->
+
+<!-- Place the upper left corner (0/1) of the image... -->
+       <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+       <screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+       <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+       <size x="532" y="297" xunits="pixels" yunits="pixels"/>
+
+    <Icon><href>files/logo.png</href></Icon>
+ 
+ </ScreenOverlay>
+ </Folder>
+<Folder>
+<name>NAP</name>
+<Folder>
+<name>Rede1 </name>
+ <Placemark>
+ <name>CTO.01.01</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43058622337844</longitude>
+ <latitude>-31.76011109171682</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43080345471365,-31.7593027337559,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.02</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43011146151137</longitude>
+ <latitude>-31.75996241340764</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43154099649485,-31.75866110716967,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.03</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43077358819825</longitude>
+ <latitude>-31.76143263328172</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43170029089911,-31.75996948569187,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.04</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43058622337844</longitude>
+ <latitude>-31.76011109171682</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43060673998953,-31.75814797813821,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.05</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.4301139394093</longitude>
+ <latitude>-31.75899197399624</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43043281642579,-31.75684381260103,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.06</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43023185774742</longitude>
+ <latitude>-31.7589038910312</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43133149863978,-31.75723553405868,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.07</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42991160554617</longitude>
+ <latitude>-31.75541382682295</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43086986994755,-31.7540147182764,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.08</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42953746335869</longitude>
+ <latitude>-31.75454650059524</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42999448990445,-31.75361625928177,0</coordinates>
+ </Point>
+ </Placemark>
+</Folder>
+<Folder>
+<name>Rede2 </name>
+ <Placemark>
+ <name>CTO.02.01</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42994958748402</longitude>
+ <latitude>-31.75455775822753</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.4306698866887,-31.75273926086333,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.02</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43067469383169</longitude>
+ <latitude>-31.75377154500858</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42980785380252,-31.75227202419772,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.03</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42876385960001</longitude>
+ <latitude>-31.75281543643835</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42965460950634,-31.7510193154918,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.04</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42966327254961</longitude>
+ <latitude>-31.75249762381624</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43048648556571,-31.7513931373233,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.05</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42920191753734</longitude>
+ <latitude>-31.7514985160019</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42943091654132,-31.7496312599889,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.06</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42960487941714</longitude>
+ <latitude>-31.75224450879829</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43030467014217,-31.75008800557058,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.07</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42971851550332</longitude>
+ <latitude>-31.75018306767822</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43012943087142,-31.74878978510125,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.08</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.4283961599644</longitude>
+ <latitude>-31.7494769046721</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42927130139522,-31.74838354208864,0</coordinates>
+ </Point>
+ </Placemark>
+</Folder>
+<Folder>
+<name>Rede3 </name>
+ <Placemark>
+ <name></name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value></value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value></value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>0</longitude>
+ <latitude>0</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates></coordinates>
+ </Point>
+ </Placemark>
+ </Folder>
+ </Folder>
+ </Document>
+</kml><?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+ <Document>
+ <Style id="restaurantStyle">
+ <IconStyle id="restuarantIcon">
+ <Icon>
+ <href>http://maps.google.com/mapfiles/kml/pal2/icon63.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Style id="barStyle">
+ <IconStyle id="barIcon">
+ <Icon>
+ <href>http://maps.google.com/mapfiles/kml/pal2/icon27.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Camera>
+<longitude>-52.43011146151137</longitude>
+<latitude>-31.75996241340764</latitude>   
+ <altitude>2000</altitude>
+     
+</Camera>
+ <Folder>
+<name>Logotipo</name>
+ <ScreenOverlay>
+
+
+   <!-- Origin (x=0/y=0) is in the lower left corner.
+
+        y goes up, x goes right.
+
+     -->
+
+<!-- Place the upper left corner (0/1) of the image... -->
+       <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+       <screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+       <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+       <size x="150" y="150" xunits="pixels" yunits="pixels"/>
+
+    <Icon><href>files/logo.png</href></Icon>
+ 
+ </ScreenOverlay>
+ </Folder>
+<Folder>
+<name>NAP</name>
+<Folder>
+<name>Rede1 </name>
+ <Placemark>
+ <name>CTO.01.01</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43058622337844</longitude>
+ <latitude>-31.76011109171682</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43080345471365,-31.7593027337559,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.02</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43011146151137</longitude>
+ <latitude>-31.75996241340764</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43154099649485,-31.75866110716967,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.03</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43077358819825</longitude>
+ <latitude>-31.76143263328172</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43170029089911,-31.75996948569187,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.04</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43058622337844</longitude>
+ <latitude>-31.76011109171682</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43060673998953,-31.75814797813821,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.05</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.4301139394093</longitude>
+ <latitude>-31.75899197399624</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43043281642579,-31.75684381260103,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.06</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43023185774742</longitude>
+ <latitude>-31.7589038910312</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43133149863978,-31.75723553405868,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.07</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42991160554617</longitude>
+ <latitude>-31.75541382682295</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43086986994755,-31.7540147182764,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.08</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42953746335869</longitude>
+ <latitude>-31.75454650059524</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42999448990445,-31.75361625928177,0</coordinates>
+ </Point>
+ </Placemark>
+</Folder>
+<Folder>
+<name>Rede2 </name>
+ <Placemark>
+ <name>CTO.02.01</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42994958748402</longitude>
+ <latitude>-31.75455775822753</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.4306698866887,-31.75273926086333,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.02</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43067469383169</longitude>
+ <latitude>-31.75377154500858</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42980785380252,-31.75227202419772,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.03</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42876385960001</longitude>
+ <latitude>-31.75281543643835</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42965460950634,-31.7510193154918,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.04</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42966327254961</longitude>
+ <latitude>-31.75249762381624</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43048648556571,-31.7513931373233,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.05</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42920191753734</longitude>
+ <latitude>-31.7514985160019</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42943091654132,-31.7496312599889,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.06</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42960487941714</longitude>
+ <latitude>-31.75224450879829</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43030467014217,-31.75008800557058,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.07</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42971851550332</longitude>
+ <latitude>-31.75018306767822</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43012943087142,-31.74878978510125,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.08</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.4283961599644</longitude>
+ <latitude>-31.7494769046721</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42927130139522,-31.74838354208864,0</coordinates>
+ </Point>
+ </Placemark>
+</Folder>
+<Folder>
+<name>Rede3 </name>
+ <Placemark>
+ <name></name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value></value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value></value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>0</longitude>
+ <latitude>0</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates></coordinates>
+ </Point>
+ </Placemark>
+ </Folder>
+ </Folder>
+ </Document>
+</kml><?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+ <Document>
+ <Style id="restaurantStyle">
+ <IconStyle id="restuarantIcon">
+ <Icon>
+ <href>http://maps.google.com/mapfiles/kml/pal2/icon63.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Style id="barStyle">
+ <IconStyle id="barIcon">
+ <Icon>
+ <href>http://maps.google.com/mapfiles/kml/pal2/icon27.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Camera>
+<longitude>-52.43011146151137</longitude>
+<latitude>-31.75996241340764</latitude>   
+ <altitude>2000</altitude>
+     
+</Camera>
+ <Folder>
+<name>Logotipo</name>
+ <ScreenOverlay>
+
+
+   <!-- Origin (x=0/y=0) is in the lower left corner.
+
+        y goes up, x goes right.
+
+     -->
+
+<!-- Place the upper left corner (0/1) of the image... -->
+       <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+       <screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+       <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+       <size x="150" y="150" xunits="pixels" yunits="pixels"/>
+
+    <Icon><href>files/logo.png</href></Icon>
+ 
+ </ScreenOverlay>
+ </Folder>
+<Folder>
+<name>NAP</name>
+<Folder>
+<name>Rede1 </name>
+ <Placemark>
+ <name>CTO.01.01</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43058622337844</longitude>
+ <latitude>-31.76011109171682</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43080345471365,-31.7593027337559,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.02</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43011146151137</longitude>
+ <latitude>-31.75996241340764</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43154099649485,-31.75866110716967,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.03</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43077358819825</longitude>
+ <latitude>-31.76143263328172</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43170029089911,-31.75996948569187,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.04</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43058622337844</longitude>
+ <latitude>-31.76011109171682</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43060673998953,-31.75814797813821,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.05</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.4301139394093</longitude>
+ <latitude>-31.75899197399624</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43043281642579,-31.75684381260103,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.06</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43023185774742</longitude>
+ <latitude>-31.7589038910312</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43133149863978,-31.75723553405868,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.07</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42991160554617</longitude>
+ <latitude>-31.75541382682295</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43086986994755,-31.7540147182764,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.08</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42953746335869</longitude>
+ <latitude>-31.75454650059524</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42999448990445,-31.75361625928177,0</coordinates>
+ </Point>
+ </Placemark>
+</Folder>
+<Folder>
+<name>Rede2 </name>
+ <Placemark>
+ <name>CTO.02.01</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42994958748402</longitude>
+ <latitude>-31.75455775822753</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.4306698866887,-31.75273926086333,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.02</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43067469383169</longitude>
+ <latitude>-31.75377154500858</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42980785380252,-31.75227202419772,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.03</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42876385960001</longitude>
+ <latitude>-31.75281543643835</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42965460950634,-31.7510193154918,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.04</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42966327254961</longitude>
+ <latitude>-31.75249762381624</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43048648556571,-31.7513931373233,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.05</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42920191753734</longitude>
+ <latitude>-31.7514985160019</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42943091654132,-31.7496312599889,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.06</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42960487941714</longitude>
+ <latitude>-31.75224450879829</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43030467014217,-31.75008800557058,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.07</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42971851550332</longitude>
+ <latitude>-31.75018306767822</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43012943087142,-31.74878978510125,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.08</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.4283961599644</longitude>
+ <latitude>-31.7494769046721</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42927130139522,-31.74838354208864,0</coordinates>
+ </Point>
+ </Placemark>
+</Folder>
+<Folder>
+<name>Rede3 </name>
+ <Placemark>
+ <name></name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value></value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value></value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>0</longitude>
+ <latitude>0</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates></coordinates>
+ </Point>
+ </Placemark>
+ </Folder>
+ </Folder>
+ </Document>
+</kml><?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+ <Document>
+ <Style id="restaurantStyle">
+ <IconStyle id="restuarantIcon">
+ <Icon>
+ <href>http://maps.google.com/mapfiles/kml/pal2/icon63.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Style id="barStyle">
+ <IconStyle id="barIcon">
+ <Icon>
+ <href>http://maps.google.com/mapfiles/kml/pal2/icon27.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Camera>
+<longitude>-52.43011146151137</longitude>
+<latitude>-31.75996241340764</latitude>   
+ <altitude>2000</altitude>
+     
+</Camera>
+ <Folder>
+<name>Logotipo</name>
+ <ScreenOverlay>
+
+
+   <!-- Origin (x=0/y=0) is in the lower left corner.
+
+        y goes up, x goes right.
+
+     -->
+
+<!-- Place the upper left corner (0/1) of the image... -->
+       <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+       <screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+       <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+       <size x="150" y="150" xunits="pixels" yunits="pixels"/>
+
+    <Icon><href>files/logo.png</href></Icon>
+ 
+ </ScreenOverlay>
+ </Folder>
+<Folder>
+<name>NAP</name>
+<Folder>
+<name>Rede1 </name>
+ <Placemark>
+ <name>CTO.01.01</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43058622337844</longitude>
+ <latitude>-31.76011109171682</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43080345471365,-31.7593027337559,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.02</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43011146151137</longitude>
+ <latitude>-31.75996241340764</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43154099649485,-31.75866110716967,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.03</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43077358819825</longitude>
+ <latitude>-31.76143263328172</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43170029089911,-31.75996948569187,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.04</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43058622337844</longitude>
+ <latitude>-31.76011109171682</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43060673998953,-31.75814797813821,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.05</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.4301139394093</longitude>
+ <latitude>-31.75899197399624</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43043281642579,-31.75684381260103,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.06</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43023185774742</longitude>
+ <latitude>-31.7589038910312</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43133149863978,-31.75723553405868,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.07</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42991160554617</longitude>
+ <latitude>-31.75541382682295</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43086986994755,-31.7540147182764,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.01.08</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42953746335869</longitude>
+ <latitude>-31.75454650059524</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42999448990445,-31.75361625928177,0</coordinates>
+ </Point>
+ </Placemark>
+</Folder>
+<Folder>
+<name>Rede2 </name>
+ <Placemark>
+ <name>CTO.02.01</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42994958748402</longitude>
+ <latitude>-31.75455775822753</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.4306698866887,-31.75273926086333,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.02</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.43067469383169</longitude>
+ <latitude>-31.75377154500858</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42980785380252,-31.75227202419772,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.03</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42876385960001</longitude>
+ <latitude>-31.75281543643835</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42965460950634,-31.7510193154918,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.04</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42966327254961</longitude>
+ <latitude>-31.75249762381624</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43048648556571,-31.7513931373233,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.05</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42920191753734</longitude>
+ <latitude>-31.7514985160019</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42943091654132,-31.7496312599889,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.06</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42960487941714</longitude>
+ <latitude>-31.75224450879829</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43030467014217,-31.75008800557058,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.07</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.42971851550332</longitude>
+ <latitude>-31.75018306767822</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.43012943087142,-31.74878978510125,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>CTO.02.08</name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value>Evolution</value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value>Capão do Leão</value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="https://docs.google.com/spreadsheets/d/1-5COqPe7toMuurUcQsW10yolSouY5xiHQBqLt6wX5xA/edit?usp=sharing">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>-52.4283961599644</longitude>
+ <latitude>-31.7494769046721</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates>-52.42927130139522,-31.74838354208864,0</coordinates>
+ </Point>
+ </Placemark>
+</Folder>
+<Folder>
+<name>Rede3 </name>
+ <Placemark>
+ <name></name>
+<ExtendedData>
+  <Data name=" Provedor  ">
+  <value></value>  
+  </Data>
+  <Data name="Reserva recomendada">
+    <value>10m</value>
+  </Data>
+  <Data name="Cidade">
+    <value></value>
+  </Data>
+  <Data name="Gerenciador de Rede">
+    <value><a href="">Entrar</a></value>
+  </Data>
+</ExtendedData>
+ <description> </description>
+ <LookAt>
+ <longitude>0</longitude>
+ <latitude>0</latitude>
+ <altitude> 0 </altitude>
+ <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+ </LookAt>
+ <styleUrl>#msn_triangle4</styleUrl>
+ <Point>
+ <coordinates></coordinates>
+ </Point>
+ </Placemark>
+ </Folder>
+ </Folder>
+ </Document>
+</kml>
