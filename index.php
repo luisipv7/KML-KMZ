@@ -29,7 +29,8 @@
 			<br><br>
 			<h5>Video Explicativo</h5>
 			<div class="embed-responsive embed-responsive-21by9">
- 			 <iframe class="embed-responsive-item" width="320" height="240" src="videos\MAPADECALOR.mp4"></iframe>
+ 			 <iframe class="embed-responsive-item" width="320" height="240" src="videos\learning.mp4"></iframe>
+			  
 		</div>
 		
 		
@@ -38,12 +39,14 @@
 		</form><br><br><hr><h2 style="color: red;">Antes de Enviar um novo registro exclua os registros que ainda permanecem banco de dados</h2>
 		<a href="excluir.php"><input name="deleta"   type="button" class="btn btn-danger btn-lg btn-block" value="Excluir" /></a>
 		<hr>
+		
 		<div class="mx-auto" style="width: 200px;">
 		<br><br><h5>Gerar InfraDefault Personalizado</h5><br>
 		<form action="geradefault.php" method="POST">
 		<input type="text" name="caixas" placeholder="Insira o número de Nap's">
 		<input type="submit" class="btn btn-outline-warning" value="Criar">
 		</form><br><br>
+		</div>
 		</div>
 		
 
