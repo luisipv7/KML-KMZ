@@ -109,20 +109,41 @@ if ($total<=24 && $total>18) {
     $kml[] = '<name>48FO</name>';
     $kml[] = '</Folder>';
 }
+if($total>24){
+    $kml[] = '<Folder>';
+    $kml[] = '<name>06FO</name>';
+    $kml[] = '</Folder>';
+    $kml[] = '<Folder>';
+    $kml[] = '<name>12FO</name>';
+    $kml[] = '</Folder>';
+    $kml[] = '<Folder>';
+    $kml[] = '<name>24FO</name>';
+    $kml[] = '</Folder>';
+    $kml[] = '<Folder>';
+    $kml[] = '<name>36FO</name>';
+    $kml[] = '</Folder>';
+    $kml[] = '<Folder>';
+    $kml[] = '<name>48FO</name>';
+    $kml[] = '</Folder>';
+
+}
 
 $kml[] = '<Folder>';
 $kml[] = '<name>EB</name>';
+$kml[] = '<Folder>';
 $kml[] = '<name>Rede'.$nrRedeEB.' </name>';
+$kml[] = '</Folder>';
 while ($nrRedeEB < $total) {
-
+    $nrRedeEB++;
+    //$kml[] = '</Folder>';
     $kml[] = '<Folder>';
     $kml[] = '<name>Rede'.$nrRedeEB.' </name>';   
     $kml[]='</Folder>';
-    $nrRedeEB++;
+    
 }
+//$kml[]='</Folder>';
 $kml[]='</Folder>';
 $kml[]='</Folder>';
-
 
 
 
@@ -137,15 +158,17 @@ $kml[] = '<Folder>';
 $kml[] = '<name>NAP</name>';
 $kml[] = '<Folder>';
 $kml[] = '<name>Rede'.$nrRedeNAP.' </name>';
+$kml[]='</Folder>';
 while ($nrRedeNAP < $total) {
-
-    
+    $nrRedeNAP++;
+    //$kml[] = '</Folder>';
     $kml[] = '<Folder>';
     $kml[] = '<name>Rede'.$nrRedeNAP.' </name>';   
     $kml[]='</Folder>';
-    $nrRedeNAP++;
+    
 
 }
+
 $kml[]='</Folder>';
 
 
@@ -154,15 +177,17 @@ $kml[] = '<Folder>';
 $kml[] = '<name>HUB</name>';
 $kml[] = '<Folder>';
 $kml[] = '<name>Rede'.$nrRedeHUB.' </name>';
-while ($nrRedeHUB <= $total) {
-
-    
+$kml[]='</Folder>';
+while ($nrRedeHUB < $total) {
+   
+    $nrRedeHUB++;
     $kml[] = '<Folder>';
     $kml[] = '<name>Rede'.$nrRedeHUB.' </name>';
     $kml[]='</Folder>';   
-    $nrRedeHUB++;
+   
 
 }
+
 $kml[]='</Folder>';
 
 // Create Folder CEO
@@ -170,15 +195,18 @@ $kml[] = '<Folder>';
 $kml[] = '<name>CEO</name>';
 $kml[] = '<Folder>';
 $kml[] = '<name>Rede'.$nrRedeCEO.' </name>';
+$kml[]='</Folder>';
 while ($nrRedeCEO < $total) {
-
-    
+  
+    $nrRedeCEO++;
+    //$kml[] = '</Folder>';
     $kml[] = '<Folder>';
     $kml[] = '<name>Rede'.$nrRedeCEO.' </name>';   
     $kml[]='</Folder>';
-    $nrRedeCEO++;
+   
 
 }
+
 $kml[]='</Folder>';
 
 
