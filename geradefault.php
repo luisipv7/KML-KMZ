@@ -30,7 +30,7 @@ if (!$db_selected)
 
 
 // Creates an array of strings to hold the lines of the KML file.
-$file = fopen('C:\Users\nando\Downloads\novoarquivo\infradefault.kml','w');
+$file = fopen('G:\My Drive\ENGENHARIA\QUALIDADE Eng\PROCEDIMENTOS\Gerar_KML\KMLs_Salvos\infradefault.kml','w');
 $kml = array('<?xml version="1.0" encoding="UTF-8"?>');
 $kml[] = '<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">';
 $kml[] = ' <Document>';
@@ -80,6 +80,7 @@ $nrRedeNAP = 1;
 $nrRedeHUB = 1;
 $nrRedeCEO = 1;
 $nrRedeEB = 1;
+$nrDerivacao = 1;
 
 $kml[] = '<Folder>';
 $kml[] = '<name>Fibras</name>';
@@ -138,6 +139,22 @@ while ($nrRedeEB < $total) {
     //$kml[] = '</Folder>';
     $kml[] = '<Folder>';
     $kml[] = '<name>Rede'.$nrRedeEB.' </name>';   
+    $kml[]='</Folder>';
+    
+}
+//$kml[]='</Folder>';
+$kml[]='</Folder>';
+
+$kml[] = '<Folder>';
+$kml[] = '<name>DERIVAÇÃO</name>';
+$kml[] = '<Folder>';
+$kml[] = '<name>Rede'.$nrDerivacao.' </name>';
+$kml[] = '</Folder>';
+while ($nrDerivacao < $total) {
+    $nrDerivacao++;
+    //$kml[] = '</Folder>';
+    $kml[] = '<Folder>';
+    $kml[] = '<name>Rede'.$nrDerivacao.' </name>';   
     $kml[]='</Folder>';
     
 }

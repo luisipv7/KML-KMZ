@@ -25,7 +25,7 @@
 			
 			
 			
-			<div class="p-2 bd-highlight"><input type="submit"   class="btn btn-success"value="Enviar"></div>
+			<div class="p-2 bd-highlight"><input type="submit"   class="btn btn-success"value="Enviar"></div> 
 			<br><br>
 			<h5>Video Explicativo</h5>
 			<div class="embed-responsive embed-responsive-21by9">
@@ -39,7 +39,8 @@
 		</form><br><br><hr><h2 style="color: red;">Antes de Enviar um novo registro exclua os registros que ainda permanecem banco de dados</h2>
 		<a href="excluir.php"><input name="deleta"   type="button" class="btn btn-danger btn-lg btn-block" value="Excluir" /></a>
 		<hr>
-		
+		<br><h4 style="text-align:center;">Clique no botão para abrir a pasta de destino onde estão os arquivos salvos. </h4><form action="abreDiretorio.php" method="POST">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit"  class="btn btn-success btn-lg btn-block" value="Ir" ></form>
 		<div class="mx-auto" style="width: 200px;">
 		<br><br><h5>Gerar InfraDefault Personalizado</h5><br>
 		<form action="geradefault.php" method="POST">
