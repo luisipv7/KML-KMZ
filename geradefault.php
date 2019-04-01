@@ -30,7 +30,7 @@ if (!$db_selected)
 
 
 // Creates an array of strings to hold the lines of the KML file.
-$file = fopen('G:\My Drive\ENGENHARIA\QUALIDADE Eng\PROCEDIMENTOS\Gerar_KML\KMLs_Salvos\infradefault.kml','w');
+$file = fopen('arquivos_salvos\infradefault.kml','w');
 $kml = array('<?xml version="1.0" encoding="UTF-8"?>');
 $kml[] = '<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">';
 $kml[] = ' <Document>';
